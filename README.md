@@ -1,6 +1,6 @@
 ## Projet : Construction d’un prédicateur discriminant les eaux potables et non potables
 
-Le dataset :waterQuality.csv 
+Le dataset : waterQuality.csv 
 
 L'étude sur R : ACP.R
 
